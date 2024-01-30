@@ -33,7 +33,7 @@
 В настоящий момент я уже закончил университет и ищу новую работу в IT, а конкретнее в сфере Frontend разработки, параллельно стараясь изучать что-то новое.
 
 - 📫 Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-cubberg-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/cubberg) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nikita.bergen0@gmail.com)
-- 🎯 Портфолио: [![Badge](https://img.shields.io/badge/-portfolio-green?style=flat&logo=&logoColor=white)](https://cubby-sil.github.io/portfolio.github/)
+- 🎯 Портфолио: [![Badge](https://img.shields.io/badge/-portfolio-green?style=flat&logo=&logoColor=white)](https://cubby-sil.github.io/portfolio/)
 </font><br>
 <img src="https://media.tenor.com/cqQ9eq9xIrgAAAAi/cat.gif" width="300px" />
 
