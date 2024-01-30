@@ -1,4 +1,4 @@
-# Привет, рад тебя видеть, я Никита <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">
+# Привет, рад тебя видеть, я Никита <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%" />
 <font size="5">**Frontend разработчик**</font> 
 
 <!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="400px"> -->
@@ -52,10 +52,10 @@
 </table>
 
 ---
-
+### <font size="6">Спасибо, что уделили время
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXZ0cnBjN2Q5c2RjaTNvbTZuc28xYWFhMnZ5dGN1bngwdnRqYXY2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WP392ibkvgOfYn07ez/giphy.gif" width="400px" /> 
 
-### <font size="6">Спасибо, что уделили время
+
 
 <!--
 **CUBBY-SIL/cubby-sil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
